@@ -1,31 +1,31 @@
-Step:     0	 Loss: 474.309	 Accuracy: 23.33%
-Step:   100	 Loss: 69.943	 Accuracy: 54.44%
-Step:   200	 Loss: 29.031	 Accuracy: 70.00%
-Step:   300	 Loss: 32.552	 Accuracy: 72.22%
-Step:   400	 Loss: 26.784	 Accuracy: 76.67%
-Step:   500	 Loss: 74.243	 Accuracy: 56.67%
-Step:   600	 Loss: 21.492	 Accuracy: 72.22%
-Step:   700	 Loss: 23.362	 Accuracy: 73.33%
-Step:   800	 Loss: 31.812	 Accuracy: 70.00%
-Step:   900	 Loss: 59.493	 Accuracy: 67.78%
-Step:  1000	 Loss: 22.734	 Accuracy: 83.33%
-Step:  1100	 Loss: 13.488	 Accuracy: 85.56%
-Step:  1200	 Loss: 13.383	 Accuracy: 84.44%
-Step:  1300	 Loss: 10.389	 Accuracy: 87.78%
-Step:  1400	 Loss: 8.355	 Accuracy: 88.89%
-Step:  1500	 Loss: 20.515	 Accuracy: 81.11%
-Step:  1600	 Loss: 10.513	 Accuracy: 92.22%
-Step:  1700	 Loss: 23.799	 Accuracy: 73.33%
-Step:  1800	 Loss: 10.494	 Accuracy: 83.33%
-Step:  1900	 Loss: 31.626	 Accuracy: 72.22%
-Step:  2000	 Loss: 22.640	 Accuracy: 81.11%
-Step:  2100	 Loss: 2.642	 Accuracy: 95.56%
-Step:  2200	 Loss: 1.042	 Accuracy: 92.22%
-Step:  2300	 Loss: 0.832	 Accuracy: 95.56%
-Step:  2400	 Loss: 0.849	 Accuracy: 95.56%
-Step:  2500	 Loss: 3.097	 Accuracy: 94.44%
-Step:  2600	 Loss: 48.492	 Accuracy: 61.11%
-Step:  2700	 Loss: 0.001	 Accuracy: 100.00%
+Step:     0	 Loss: 475.163	 Accuracy: 18.89%
+Step:   100	 Loss: 49.634	 Accuracy: 71.11%
+Step:   200	 Loss: 68.481	 Accuracy: 62.22%
+Step:   300	 Loss: 76.800	 Accuracy: 71.11%
+Step:   400	 Loss: 36.237	 Accuracy: 73.33%
+Step:   500	 Loss: 21.068	 Accuracy: 74.44%
+Step:   600	 Loss: 12.046	 Accuracy: 84.44%
+Step:   700	 Loss: 25.229	 Accuracy: 77.78%
+Step:   800	 Loss: 37.515	 Accuracy: 71.11%
+Step:   900	 Loss: 16.915	 Accuracy: 85.56%
+Step:  1000	 Loss: 11.322	 Accuracy: 80.00%
+Step:  1100	 Loss: 14.707	 Accuracy: 82.22%
+Step:  1200	 Loss: 15.550	 Accuracy: 78.89%
+Step:  1300	 Loss: 10.104	 Accuracy: 83.33%
+Step:  1400	 Loss: 24.510	 Accuracy: 77.78%
+Step:  1500	 Loss: 6.129	 Accuracy: 88.89%
+Step:  1600	 Loss: 23.310	 Accuracy: 73.33%
+Step:  1700	 Loss: 23.072	 Accuracy: 75.56%
+Step:  1800	 Loss: 38.281	 Accuracy: 76.67%
+Step:  1900	 Loss: 1.540	 Accuracy: 92.22%
+Step:  2000	 Loss: 24.990	 Accuracy: 76.67%
+Step:  2100	 Loss: 15.557	 Accuracy: 80.00%
+Step:  2200	 Loss: 2.032	 Accuracy: 95.56%
+Step:  2300	 Loss: 46.580	 Accuracy: 66.67%
+Step:  2400	 Loss: 12.160	 Accuracy: 86.67%
+Step:  2500	 Loss: 2.312	 Accuracy: 90.00%
+Step:  2600	 Loss: 33.095	 Accuracy: 73.33%
+Step:  2700	 Loss: 2.664	 Accuracy: 94.44%
 Step:  2800	 Loss: 0.000	 Accuracy: 100.00%
 Step:  2900	 Loss: 0.000	 Accuracy: 100.00%
 [True] Prediction:[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2
@@ -299,13 +299,13 @@ Step:  2900	 Loss: 0.000	 Accuracy: 100.00%
  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4
  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4] True Y:4
 ----------------------------------------------------------------------------------------------------
-[False] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:0
-[True] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:0
-[True] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:1
-[True] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:1
-[False] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:2
-[False] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:2
-[True] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:3
-[False] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:3
-[False] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:4
-[False] Prediction:[3 0 1 1 4 4 3 0 0 3] True Y:4
+[False] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:0
+[True] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:0
+[True] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:1
+[True] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:1
+[False] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:2
+[False] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:2
+[False] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:3
+[False] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:3
+[True] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:4
+[False] Prediction:[3 0 1 1 4 1 0 0 4 3] True Y:4
